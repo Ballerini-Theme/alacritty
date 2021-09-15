@@ -2,12 +2,12 @@
   <br>
   <img src="./icon.png" alt="Ballerini Theme Icon" width="100">
   <br>
-  Ballerini Theme for <a href="https://website-link.com">?Name?</a>
+  Ballerini Theme for <a href="https://github.com/alacritty/alacritty">Alacritty</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark Brown theme for <a href="https://website-link.com">?Name?</a></strong>
+  <strong>Dark Brown theme for <a href="https://github.com/alacritty/alacritty">Alacritty</a></strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./screenshot.png" alt="Ballerini Theme Screenshot for ?Name?">
+  <img src="./screenshot.png" alt="Ballerini Theme Screenshot for Alacritty">
 </p>
 
 ## Install
@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following people/person and bunch of [awesome contributors](https://github.com/Ballerini-Theme/template/graphs/contributors).
 
-| [![Alpha Vylly](https://github.com/AlphaLawless.png?size=100)](https://github.com/AlphaLawless) |
+| [![Redson dos Santos](https://github.com/RedsonBr140.png?size=100)](https://github.com/RedsonBr140) |
 | ---------------------------------------------------------------------------------------------- | 
-| [Alpha Vylly](https://github.com/AlphaLawless)                                                 |
+| [Redson dos Santos](https://github.com/AlphaLawless)                                                 |
 
 ## License
 

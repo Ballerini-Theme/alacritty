@@ -1,0 +1,17 @@
+# Colors (Ballerini Theme)
+colors:
+  # Default colors
+  primary:
+    background: '#261C1E'
+    foreground: '#FFF2E7'
+
+  # Normal colors
+  normal:
+    black:   '#2F2325'
+    red:     '#E94554'
+    green:   '#67E480'
+    yellow:  '#EFC764'
+    blue:    '#97D4D9'
+    magenta: '#feafbe'
+    cyan:    '#55EDC4'
+    white:   '#FEECCB'
