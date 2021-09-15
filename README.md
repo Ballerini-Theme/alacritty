@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following people/person and bunch of [awesome contributors](https://github.com/Ballerini-Theme/template/graphs/contributors).
 
-| [![Redson dos Santos](https://github.com/RedsonBr140.png?size=100)](https://github.com/RedsonBr140) |
-| ---------------------------------------------------------------------------------------------- | 
-| [Redson dos Santos](https://github.com/AlphaLawless)                                                 |
+| [![Alpha Vylly](https://github.com/AlphaLawless.png?size=100)](https://github.com/AlphaLawless) | [![Redson dos Santos](https://github.com/RedsonBr140.png?size=100)](https://github.com/RedsonBr140)
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Alpha Vylly](https://github.com/AlphaLawless) | [Redson dos Santos](https://github.com/RedsonBr140) |                                               |
 
 ## License
 
