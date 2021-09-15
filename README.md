@@ -32,11 +32,11 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following people/person and bunch of [awesome contributors](https://github.com/RedsonBr140/alacritty/graphs/contributors).
+This theme is maintained by the following people/person and bunch of [awesome contributors](https://github.com/Ballerini-Theme/alacritty/graphs/contributors).
 
-| [![Alpha Vylly](https://github.com/AlphaLawless.png?size=100)](https://github.com/AlphaLawless) | [![Redson dos Santos](https://github.com/RedsonBr140.png?size=100)](https://github.com/RedsonBr140)
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Alpha Vylly](https://github.com/AlphaLawless) | [Redson dos Santos](https://github.com/RedsonBr140) |                                               |
+| [![Redson dos Santos](https://github.com/RedsonBr140.png?size=100)](https://github.com/RedsonBr140)
+| ----------------------------------------------------------------------------------------------- |
+| [Redson dos Santos](https://github.com/RedsonBr140) |
 
 ## License
 
