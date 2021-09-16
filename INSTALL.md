@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme by cloning the repository:
 ```
-$ git clone https://github.com/RedsonBr140/alacritty.git && cd alacritty
+$ git clone https://github.com/Ballerini-Theme/alacritty.git && cd alacritty
 ```
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/RedsonBr140/alacritty/archive/main.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/Ballerini-Theme/alacritty/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
